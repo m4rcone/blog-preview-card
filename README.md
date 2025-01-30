@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site]([https://github.com/m4rcone/blog-preview-card](https://blog-preview-card-tan-five.vercel.app/))
+- [Live Site](https://blog-preview-card-tan-five.vercel.app/)
 - [Figma](https://www.figma.com/design/9Bl8QekwXmI7VuQezDYTys/blog-preview-card?m=auto&t=URYRProBEIH3vKO5-6)
 
 ## My process
